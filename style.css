@@ -1,0 +1,242 @@
+
+
+body {
+
+	text-align: left;
+	background-image: linear-gradient (255,251,255);
+	margin-left: 5px;
+	margin-right: 5px;
+	font-family: 'Archivo Black', sans-serif;
+	font-weight: initial;
+	font-size: 15px;
+
+
+
+
+}
+
+
+
+nav {
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	display: inline-block;
+}
+
+
+
+
+
+
+.logolist ul {
+ 	list-style: none;
+}
+
+
+.logolist ul li {
+	display: inline;
+	text-decoration: none;
+	margin-right: 190px;
+	
+	
+
+}
+
+
+
+
+.header {
+
+
+background-color: black;
+margin-top: 0px;
+margin-bottom: 0px;
+margin: -10px;
+padding-bottom: 0px;
+
+padding-bottom: -20px;
+
+
+}
+
+
+/*ul {
+
+	list-style: none;
+}
+
+
+
+
+ul li {
+	
+	display: inline-block;
+	text-decoration: none;
+
+}*/
+
+
+
+
+
+
+
+
+
+
+
+.WHY {
+	color: red;
+	text-shadow: 2px 1px black;
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+.cprpic {
+	float: right;
+	box-shadow: 5px 5px 5px grey;
+	margin: 1px;
+
+}
+
+
+
+.INSTRUCTOR {
+	color: red;
+	text-shadow: 2px 1px black;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+.SERVICES {
+	color: red;
+	text-shadow: 2px 1px black;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+/*.form {
+	max-height: 175px;
+	margin: left;
+	border: 1px solid black;
+	padding: 2rem;	
+	
+}*/
+
+.contact-form {
+	width: 250px;
+	height: 25px;
+	font-size: 15px;
+	font-family: 'Archivo Black', sans-serif;
+}
+
+
+
+textarea {
+	
+	width: 300px;
+	height: 75px;
+	font-size: 15px;
+	font-family: 'Archivo Black', sans-serif;
+}
+
+
+.submit {
+
+	background-color: red;
+	font-family: 'Archivo Black', sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	border: solid 2px white;
+	border-radius: 20px;
+	padding: 10px 15px;
+	outline: transparent;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+
+}
+
+.submit:hover {
+  	
+  	background-color: black;
+  	opacity: 0.9;
+  
+  	
+
+}
+
+.submit:active {
+
+	background-color: white ;
+
+}
+
+
+.reset {
+
+	background-color: red;
+	font-family: 'Archivo Black', sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	border: solid 2px white;
+	border-radius: 20px;
+	padding: 10px 15px;
+	outline: transparent;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+
+
+
+}
+
+
+
+.reset:hover {
+
+	background-color: black;
+  	opacity: 0.9;
+
+}
+
+
+
+.reset:active {
+	background-color: white;
+}
+
+
+
+.footer {
+
+color: white;
+background: black;
+/*margin:  -25px;*/
+
+margin-bottom: -50px;
+padding-top: 20px;
+height: 100%;
+overflow: hidden;
+bottom: 0px;
+width: 100%;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
